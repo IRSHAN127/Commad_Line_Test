@@ -1,0 +1,50 @@
+1) Which of these print the filename?
+a.$1
+b.$#
+c.$0
+d.$@
+2) Which command is used to search a pattern in a file?
+a.uniq
+b.export
+c.grep
+d.dif
+3) which command is used to print in shell scripting?
+a.read
+b.echo
+c.ls
+d.print
+4) Which command is used to read in shell scripting?
+a.read
+b.echo
+c.ls
+d.print
+5) Which command is used to to check the kernal version?
+a.kernal
+b.uname -r
+c.info
+d.dmesg
+6) Command used to change the password?
+a.passwd
+b.change -p
+c.password
+d.none of these
+7) Which of this used for comparing string?
+a.==
+b.-eq
+c.=
+d.=?
+8) Which command is used to compare two file line by line?
+a.dif
+b.uniq
+c.check
+d.sed
+9) How to find own username ?
+a.whoami
+b.user
+c.name
+d.none of these
+10) Command to terminate each case in switch case?
+a.::
+b.break
+c.exit
+d.;;
